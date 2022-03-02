@@ -1,0 +1,3 @@
+Name37 Surname37 BINF 1 3.21
+Name31 Surname31 BINF 1 3.16
+Name49 Surname49 BINF 1 2.88
