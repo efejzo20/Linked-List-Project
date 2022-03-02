@@ -1,4 +1,5 @@
 # Linked-List-Project
+Handling student data with Linked List
 
 ## Project details
 
